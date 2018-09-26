@@ -1,4 +1,4 @@
-# Team_00
+# Team_0B
 * Team member 1
 * Team member 2
 * and so on
@@ -18,8 +18,8 @@ In BTS530 you will create a prototype of part of your system in four iterations.
 ## Iteration 1 Tasks
 ### To do:
 1. ~~task~~ 
-1. task  
-1. and so on 
+1. ~~task~~  
+1. ~~and so on~~ 
 
 ### Completed:
 1. task
